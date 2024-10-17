@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: poppins;
+  }
+  
+  body {
+    font-family: poppins;
+    background-color: wheat;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+  }
+  
+  h2 {
+    justify-content: center;
+    display: flex;
+    padding-top: 10px;
+  }
+  
+  button {
+    font-family: poppins;
+    cursor: pointer;
+    border-radius: 15px;
+    width: 70px;
+    height: 30px;
+  }
+  
+  .hasil {
+    font-size: 15px;
+  }
+  
+  input {
+    font-family: poppins;
+    border-radius: 15px;
+    margin-top: 10px;
+  }
+  
+  a:hover {
+    text-decoration: none;
+    color: red;
+  }
